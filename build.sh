@@ -23,8 +23,8 @@ gpg --import gpg.txt
 
 # Download source
 # Found URLs for latest Xenial package from: https://launchpad.net/ubuntu/+source/imagemagick
-curl -OL https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/imagemagick/8:6.8.9.9-7ubuntu5.11/imagemagick_6.8.9.9.orig.tar.xz
-curl -OL https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/imagemagick/8:6.8.9.9-7ubuntu5.11/imagemagick_6.8.9.9-7ubuntu5.11.debian.tar.xz
+curl -OL https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/imagemagick/8:6.8.9.9-7ubuntu5.12/imagemagick_6.8.9.9.orig.tar.xz
+curl -OL https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/imagemagick/8:6.8.9.9-7ubuntu5.12/imagemagick_6.8.9.9-7ubuntu5.12.debian.tar.xz
 
 # Build
 mkdir build
